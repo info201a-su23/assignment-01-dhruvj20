@@ -20,6 +20,6 @@ That means out of 54 CS bachelor's recipients, only 20 would be women, and that'
 
 Hyperlink: [*Data Feminism* Chapter 1](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4)
 
-Emoji: :grinning:
+Emoji: :grimacing:
 
 
