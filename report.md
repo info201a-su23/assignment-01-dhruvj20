@@ -2,5 +2,6 @@
 ## By Dhruv Jagannath ##
 *July 12, 2023*
 ## Data Viz Summary ##
-![alt text](/images/CS-Degrees-By-Gender.jpg)
+![alt text](/assignment-01-dhruvj20/DegreesByGender.jpg)
+
 
