@@ -2,7 +2,7 @@
 ## By Dhruv Jagannath ##
 *July 12, 2023*
 ## Data Viz Summary ##
-![Gender Disparity in CS Degrees from 1970-2010](/assignment-01-dhruvj20/CSDegreesByGender.jpg)
+![Gender Disparity in CS Degrees from 1970-2010](/CSDegreesByGender.jpg)
 
 The graphic chronologically illustrates the percentages of CS bachelor's degrees awarded to men and women to highlight the disturbing increase in female underrepresentation in the field over time. 
 
