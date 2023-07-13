@@ -33,7 +33,7 @@ Furthermore, the visualization only shows data from 1970-2010, so there's a chan
 
 The target audience should be high-level figures in the computer science industry/universities' college admissions office so they can adjust workplace and admissions practices to fix the underrepresentation of women in the computer science field and progress towards gender equality.
 
-However, anyone reading *Data Feminism* can 
+However, anyone reading *Data Feminism* can be considered the audience with the hope of them advocating for equal representation of women in any field or workplace.
 
 **4. How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**
 
