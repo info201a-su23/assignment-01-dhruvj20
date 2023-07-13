@@ -12,7 +12,7 @@ The caption in the center accentuates the situational direness the graph shows b
 
 That means out of 54 CS bachelor's recipients, only 20 would be women, and that's severe underrepresentation during what's presented as the height of progress in this field.
 
-*Data Feminism* argues (Block Quote):
+*Data Feminism* says (Block Quote):
 > As “data analysts” (low-status number crunchers) have 
 > become rebranded as “data scientists” (high status researchers), women are being pushed out in order to make 
 > room for more highly valued and more highly compensated men (D'Ignazio and Klein, "The Power Chapter").
